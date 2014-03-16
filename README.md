@@ -1,4 +1,4 @@
-angularFlot
+angularWidgets
 ===========
 
-Angular JS integration with jQuery Flot
+Widgets built with Angular JS 
